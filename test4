@@ -2,4 +2,4 @@ name = input()
 age = int(input))
 
 name = 'alena'
-
+name= 'mot'
