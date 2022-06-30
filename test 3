@@ -1,3 +1,7 @@
 print('hi!!!')
 name =input()
 age = int(input())
+name_main2 = int(input())
+name3 = 45
+
+
