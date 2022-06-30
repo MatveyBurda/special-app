@@ -1,6 +1,6 @@
 print('hi!!!')
 name =input()
-age = int(input())
+age4432 = int(input())
 name_main2 = int(input())
 name3 = 45
 
