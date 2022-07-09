@@ -1,7 +1,5 @@
-print('hi!!!')
-name =input()
-age4432 = int(input())
-name_main2 = int(input())
-name3 = 45
+name = int(input('как вас зовут?')
+age = int(input('Сколько вам лет?)
+
 
 
