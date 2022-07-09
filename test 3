@@ -1,5 +1,6 @@
 name = int(input('как вас зовут?')
 age = int(input('Сколько вам лет?)
+name - 'Mot'
 
 
 
